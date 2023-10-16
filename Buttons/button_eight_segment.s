@@ -1,4 +1,4 @@
-		area SwitchEightSegment, code, readonly
+		area SwitchEightSegment, code, readonl
 			
 			
 ; Rename the registers			
